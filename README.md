@@ -159,6 +159,9 @@ p.note { display: none; }
 <a href="20241227_009.JPG" target="_blank"><img src="20241227_009.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20241227_010.JPG" target="_blank"><img src="20241227_010.JPG" alt="サンプル画像" width="900" /></a>
 
+<h2><span class="yellow">演奏で寄付を募るおじさんもいました</span></h2>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5r1JDY1if8g?si=Xts9fU5tlt44Yu22" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe><br>
+
 <h2><span class="yellow">お花は満開です</span></h2>
 <a href="20241227_011.JPG" target="_blank"><img src="20241227_011.JPG" alt="サンプル画像" width="900" /></a>
 
@@ -184,6 +187,10 @@ p.note { display: none; }
 <h2><span class="yellow">お母さんを綺麗に写そうと頑張る娘さん</span></h2>
 <a href="20241227_025.JPG" target="_blank"><img src="20241227_025.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20241227_026.JPG" target="_blank"><img src="20241227_026.JPG" alt="サンプル画像" width="900" /></a>
+
+
+<h2><span class="yellow">お花への水やりは霧噴霧装置</span></h2>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XGLTxdsvoDs?si=C1AKv87qmK67erej" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe><br>
 
 <h2><span class="yellow">こちらの建物も中に仏像様が鎮座していました</span></h2>
 <a href="20241227_027.JPG" target="_blank"><img src="20241227_027.JPG" alt="サンプル画像" width="900" /></a>
@@ -233,6 +240,8 @@ p.note { display: none; }
 <br><br><br><br>
 
 <h1><span class="yellow"><marquee behavior="left">!!! 夕方メーチャンのショッピングモールに行くと、駐車場を全部屋台にしてお正月モード !!!</marquee></span></h1>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AfN0liAd9n0?si=HJ1IY_1-Wlq8v5QF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe><br>
 
 <a href="20241227_046.JPG" target="_blank"><img src="20241227_046.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20241227_047.JPG" target="_blank"><img src="20241227_047.JPG" alt="サンプル画像" width="900" /></a>
