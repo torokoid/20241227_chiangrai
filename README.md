@@ -144,11 +144,11 @@ p.note { display: none; }
 <h2><span class="yellow">最初の建物の外階段を登ると2階部分</span></h2>
 <a href="20241227_003.JPG" target="_blank"><img src="20241227_003.JPG" alt="サンプル画像" width="900" /></a>
 
-<h2><span class="yellow">2階部分からの眺め</span></h2>
+<h2><span class="yellow">2階部分からの眺め<br>駐車場というスペースがないので係のおじさんが一生懸命誘導して空きスペースに車を止めます</span></h2>
 <a href="20241227_004.JPG" target="_blank"><img src="20241227_004.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20241227_005.JPG" target="_blank"><img src="20241227_005.JPG" alt="サンプル画像" width="900" /></a>
 
-<h2><span class="yellow">2階部分の扉の中は仏教施設、誰もいません（皆興味なし？）</span></h2>
+<h2><span class="yellow">2階部分の扉の中は仏教施設、誰もいません（立ち入り禁止か？）</span></h2>
 <a href="20241227_006.JPG" target="_blank"><img src="20241227_006.JPG" alt="サンプル画像" width="900" /></a>
 
 <h2><span class="yellow">施設は入場料も駐車料金も無料、駐車場係のおじさんはたくさん居ました</span></h2>
