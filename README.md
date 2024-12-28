@@ -200,6 +200,12 @@ p.note { display: none; }
 <a href="20241227_029.JPG" target="_blank"><img src="20241227_029.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20241227_030.JPG" target="_blank"><img src="20241227_030.JPG" alt="サンプル画像" width="900" /></a>
 
+<h2><span class="yellow">池の魚はナマズでした</span></h2>
+<a href="https://youtube.com/shorts/8PlvYonsne8?feature=share" target="_blank"><img src="20241227_002.png" alt="サンプル画像" width="900" /></a>
+
+<h2><span class="yellow">鯉の集団も居ました</span></h2>
+<a href="https://youtube.com/shorts/Rkr0pNGUVp8?feature=share" target="_blank"><img src="20241227_003.png" alt="サンプル画像" width="900" /></a>
+
 <h2><span class="yellow">池の魚にあげる餌売り場、一回分は小さなバケツレベル</span></h2>
 <a href="20241227_031.JPG" target="_blank"><img src="20241227_031.JPG" alt="サンプル画像" width="900" /></a>
 
@@ -232,10 +238,10 @@ p.note { display: none; }
 
 <h2><span class="yellow">トイレは綺麗でした</span></h2>
 <a href="20241227_043.JPG" target="_blank"><img src="20241227_043.JPG" alt="サンプル画像" width="900" /></a>
-
+<!--
 <h2><span class="yellow">女子トイレの壁に脱ぎ捨てられた下着、このおおらかさは日本にはもう無いですね</span></h2>
 <a href="20241227_044.JPG" target="_blank"><img src="20241227_044.JPG" alt="サンプル画像" width="900" /></a>
-<a href="20241227_045.JPG" target="_blank"><img src="20241227_045.JPG" alt="サンプル画像" width="900" /></a>
+-->
 
 <br><br><br><br>
 
@@ -243,11 +249,12 @@ p.note { display: none; }
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/AfN0liAd9n0?si=HJ1IY_1-Wlq8v5QF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe><br>
 
+<a href="20241227_045.JPG" target="_blank"><img src="20241227_045.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20241227_046.JPG" target="_blank"><img src="20241227_046.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20241227_047.JPG" target="_blank"><img src="20241227_047.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20241227_048.JPG" target="_blank"><img src="20241227_048.JPG" alt="サンプル画像" width="900" /></a>
 
-<h2><span class="yellow">講師の丸焼き</span></h2>
+<h2><span class="yellow">子牛の丸焼き</span></h2>
 <a href="20241227_049.JPG" target="_blank"><img src="20241227_049.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20241227_050.JPG" target="_blank"><img src="20241227_050.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20241227_051.JPG" target="_blank"><img src="20241227_051.JPG" alt="サンプル画像" width="900" /></a>
