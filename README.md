@@ -130,7 +130,7 @@ p.note { display: none; }
 
 <h2><span class="yellow">今回のお祭り会場はこの辺り<br>画像のクリックでGoogleMapsに飛びます</span></h2>
 
-<a href="https://www.google.com/maps/place/ศกร.ตำบลจอมสวรรค์/@20.195319,99.8968815,14.6z/data=!4m6!3m5!1s0x30d657c321b93905:0xc7d9c36477d39e5c!8m2!3d20.1965675!4d99.9029547!16s%2Fg%2F11h1j7xjns!5m1!1e2?entry=ttu&g_ep=EgoyMDI0MTIxMS4wIKXMDSoASAFQAw%3D%3D" target="_blank"><img src="20241226_001.png" alt="サンプル画像" width="900" /></a>
+<a href="https://www.google.com/maps/place/ศกร.ตำบลจอมสวรรค์/@20.195319,99.8968815,14.6z/data=!4m6!3m5!1s0x30d657c321b93905:0xc7d9c36477d39e5c!8m2!3d20.1965675!4d99.9029547!16s%2Fg%2F11h1j7xjns!5m1!1e2?entry=ttu&g_ep=EgoyMDI0MTIxMS4wIKXMDSoASAFQAw%3D%3D" target="_blank"><img src="20241227_001.png" alt="サンプル画像" width="900" /></a>
 
 
 
