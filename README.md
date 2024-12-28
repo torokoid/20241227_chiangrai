@@ -134,15 +134,27 @@ p.note { display: none; }
 
 
 
-<h2><span class="yellow">久しぶりに観光地っぽいところを訪問</span></h2>
+<h2><span class="yellow">久しぶりに観光地っぽいところを訪問<br>車を止めてまず目に入ったのはこの建物</span></h2>
 
 <a href="20241227_001.JPG" target="_blank"><img src="20241227_001.JPG" alt="サンプル画像" width="900" /></a>
+
+<h2><span class="yellow">横にもこんな建物</span></h2>
 <a href="20241227_002.JPG" target="_blank"><img src="20241227_002.JPG" alt="サンプル画像" width="900" /></a>
+
+<h2><span class="yellow">最初の建物の外階段を登ると2階部分</span></h2>
 <a href="20241227_003.JPG" target="_blank"><img src="20241227_003.JPG" alt="サンプル画像" width="900" /></a>
+
+<h2><span class="yellow">2階部分からの眺め</span></h2>
 <a href="20241227_004.JPG" target="_blank"><img src="20241227_004.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20241227_005.JPG" target="_blank"><img src="20241227_005.JPG" alt="サンプル画像" width="900" /></a>
+
+<h2><span class="yellow">2階部分の扉の中は仏教施設、誰もいません（皆興味なし？）</span></h2>
 <a href="20241227_006.JPG" target="_blank"><img src="20241227_006.JPG" alt="サンプル画像" width="900" /></a>
+
+<h2><span class="yellow">施設は入場料も駐車料金も無料、駐車場係のおじさんはたくさん居ました</span></h2>
 <a href="20241227_007.JPG" target="_blank"><img src="20241227_007.JPG" alt="サンプル画像" width="900" /></a>
+
+<h2><span class="yellow">お金がかかるのは屋台での買い物がメイン</span></h2>
 <a href="20241227_008.JPG" target="_blank"><img src="20241227_008.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20241227_009.JPG" target="_blank"><img src="20241227_009.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20241227_010.JPG" target="_blank"><img src="20241227_010.JPG" alt="サンプル画像" width="900" /></a>
