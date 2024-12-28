@@ -158,47 +158,92 @@ p.note { display: none; }
 <a href="20241227_008.JPG" target="_blank"><img src="20241227_008.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20241227_009.JPG" target="_blank"><img src="20241227_009.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20241227_010.JPG" target="_blank"><img src="20241227_010.JPG" alt="サンプル画像" width="900" /></a>
+
+<h2><span class="yellow">お花は満開です</span></h2>
 <a href="20241227_011.JPG" target="_blank"><img src="20241227_011.JPG" alt="サンプル画像" width="900" /></a>
+
+<h2><span class="yellow">アリさんの扱いが日本より数段上？！</span></h2>
 <a href="20241227_012.JPG" target="_blank"><img src="20241227_012.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20241227_013.JPG" target="_blank"><img src="20241227_013.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20241227_014.JPG" target="_blank"><img src="20241227_014.JPG" alt="サンプル画像" width="900" /></a>
+
+<h2><span class="yellow">仏像様はたくさん居ました</span></h2>
 <a href="20241227_015.JPG" target="_blank"><img src="20241227_015.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20241227_016.JPG" target="_blank"><img src="20241227_016.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20241227_017.JPG" target="_blank"><img src="20241227_017.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20241227_018.JPG" target="_blank"><img src="20241227_018.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20241227_019.JPG" target="_blank"><img src="20241227_019.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20241227_020.JPG" target="_blank"><img src="20241227_020.JPG" alt="サンプル画像" width="900" /></a>
+
+<h2><span class="yellow">屋台の数はすごい量</span></h2>
 <a href="20241227_021.JPG" target="_blank"><img src="20241227_021.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20241227_022.JPG" target="_blank"><img src="20241227_022.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20241227_023.JPG" target="_blank"><img src="20241227_023.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20241227_024.JPG" target="_blank"><img src="20241227_024.JPG" alt="サンプル画像" width="900" /></a>
+
+<h2><span class="yellow">お母さんを綺麗に写そうと頑張る娘さん</span></h2>
 <a href="20241227_025.JPG" target="_blank"><img src="20241227_025.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20241227_026.JPG" target="_blank"><img src="20241227_026.JPG" alt="サンプル画像" width="900" /></a>
+
+<h2><span class="yellow">こちらの建物も中に仏像様が鎮座していました</span></h2>
 <a href="20241227_027.JPG" target="_blank"><img src="20241227_027.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20241227_028.JPG" target="_blank"><img src="20241227_028.JPG" alt="サンプル画像" width="900" /></a>
+
+<h2><span class="yellow">施設の端の池にかかる橋、夜は派手にライトアップされるらしい</span></h2>
 <a href="20241227_029.JPG" target="_blank"><img src="20241227_029.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20241227_030.JPG" target="_blank"><img src="20241227_030.JPG" alt="サンプル画像" width="900" /></a>
+
+<h2><span class="yellow">池の魚にあげる餌売り場、一回分は小さなバケツレベル</span></h2>
 <a href="20241227_031.JPG" target="_blank"><img src="20241227_031.JPG" alt="サンプル画像" width="900" /></a>
+
+<h2><span class="yellow">これは周辺国の仏像とのこと</span></h2>
 <a href="20241227_032.JPG" target="_blank"><img src="20241227_032.JPG" alt="サンプル画像" width="900" /></a>
+
+<h2><span class="yellow">橋を渡ったところに洞窟の入り口</span></h2>
 <a href="20241227_033.JPG" target="_blank"><img src="20241227_033.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20241227_034.JPG" target="_blank"><img src="20241227_034.JPG" alt="サンプル画像" width="900" /></a>
+
+<h2><span class="yellow">一応火の通ったものを購入</span></h2>
 <a href="20241227_035.JPG" target="_blank"><img src="20241227_035.JPG" alt="サンプル画像" width="900" /></a>
+
+<h2><span class="yellow">支払い方法はスマホ決済</span></h2>
 <a href="20241227_036.JPG" target="_blank"><img src="20241227_036.JPG" alt="サンプル画像" width="900" /></a>
+
+<h2><span class="yellow">ブタさんモニュメントがこっち見てニッコリ</span></h2>
 <a href="20241227_037.JPG" target="_blank"><img src="20241227_037.JPG" alt="サンプル画像" width="900" /></a>
+
+<h2><span class="yellow">イベント広場の人ではこんな感じ、夕方以降が本番らしい</span></h2>
 <a href="20241227_038.JPG" target="_blank"><img src="20241227_038.JPG" alt="サンプル画像" width="900" /></a>
+
+<h2><span class="yellow">併設されている屋台は、市場並みの規模</span></h2>
 <a href="20241227_039.JPG" target="_blank"><img src="20241227_039.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20241227_040.JPG" target="_blank"><img src="20241227_040.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20241227_041.JPG" target="_blank"><img src="20241227_041.JPG" alt="サンプル画像" width="900" /></a>
+
+<h2><span class="yellow">宝くじは2人体制</span></h2>
 <a href="20241227_042.JPG" target="_blank"><img src="20241227_042.JPG" alt="サンプル画像" width="900" /></a>
+
+<h2><span class="yellow">トイレは綺麗でした</span></h2>
 <a href="20241227_043.JPG" target="_blank"><img src="20241227_043.JPG" alt="サンプル画像" width="900" /></a>
+
+<h2><span class="yellow">女子トイレの壁に脱ぎ捨てられた下着、このおおらかさは日本にはもう無いですね</span></h2>
 <a href="20241227_044.JPG" target="_blank"><img src="20241227_044.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20241227_045.JPG" target="_blank"><img src="20241227_045.JPG" alt="サンプル画像" width="900" /></a>
+
+<br><br><br><br>
+
+<h1><span class="yellow"><marquee behavior="left">!!! 夕方メーチャンのショッピングモールに行くと、駐車場を全部屋台にしてお正月モード !!!</marquee></span></h1>
+
 <a href="20241227_046.JPG" target="_blank"><img src="20241227_046.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20241227_047.JPG" target="_blank"><img src="20241227_047.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20241227_048.JPG" target="_blank"><img src="20241227_048.JPG" alt="サンプル画像" width="900" /></a>
+
+<h2><span class="yellow">講師の丸焼き</span></h2>
 <a href="20241227_049.JPG" target="_blank"><img src="20241227_049.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20241227_050.JPG" target="_blank"><img src="20241227_050.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20241227_051.JPG" target="_blank"><img src="20241227_051.JPG" alt="サンプル画像" width="900" /></a>
+
+<h2><span class="yellow">夕焼け空に一番星の金星</span></h2>
 <a href="20241227_052.JPG" target="_blank"><img src="20241227_052.JPG" alt="サンプル画像" width="900" /></a>
 
 
