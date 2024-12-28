@@ -225,7 +225,7 @@ p.note { display: none; }
 <h2><span class="yellow">ブタさんモニュメントがこっち見てニッコリ</span></h2>
 <a href="20241227_037.JPG" target="_blank"><img src="20241227_037.JPG" alt="サンプル画像" width="900" /></a>
 
-<h2><span class="yellow">イベント広場の人ではこんな感じ、夕方以降が本番らしい</span></h2>
+<h2><span class="yellow">イベント広場の人出はこんな感じ、夕方以降が本番らしい</span></h2>
 <a href="20241227_038.JPG" target="_blank"><img src="20241227_038.JPG" alt="サンプル画像" width="900" /></a>
 
 <h2><span class="yellow">併設されている屋台は、市場並みの規模</span></h2>
