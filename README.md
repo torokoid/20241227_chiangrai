@@ -178,7 +178,7 @@ p.note { display: none; }
 <a href="20241227_019.JPG" target="_blank"><img src="20241227_019.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20241227_020.JPG" target="_blank"><img src="20241227_020.JPG" alt="サンプル画像" width="900" /></a>
 
-<h2><span class="yellow">屋台の数はすごい量</span></h2>
+<h2><span class="yellow">屋台はすごい数</span></h2>
 <a href="20241227_021.JPG" target="_blank"><img src="20241227_021.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20241227_022.JPG" target="_blank"><img src="20241227_022.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20241227_023.JPG" target="_blank"><img src="20241227_023.JPG" alt="サンプル画像" width="900" /></a>
